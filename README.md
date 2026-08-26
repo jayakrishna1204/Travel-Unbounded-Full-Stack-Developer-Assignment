@@ -1,6 +1,6 @@
 # Travel Unbounded — Experiential Travel Website 
 
-## Full Stack Developer Assignment
+## Full Stack Developer Assignment Frontend and Backend
 
 ## Overview
 
